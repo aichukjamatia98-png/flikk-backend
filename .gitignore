@@ -1,0 +1,7 @@
+node_modules/
+flikk.db
+flikk.db-shm
+flikk.db-wal
+.env
+uploads/*
+!uploads/.gitkeep
