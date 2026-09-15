@@ -4,7 +4,8 @@
 // fetch() calls everywhere. Update BASE_URL to match where your backend
 // is actually running.
 
-const BASE_URL = 'http://localhost:3000/api';
+const BASE_URL ='https://flikk-backend-production.up.railway.app/api';
+
 
 // The login token gets stored here after signup/login, and attached to
 // every request that needs it. It's also saved to localStorage so the
